@@ -5,10 +5,15 @@
     <string name="left_and_right">Left and Right</string>
     <string name="demo_1">通过改变不同的值来改变滑动菜单不同的效果，可以设置的值有：\n1. 设置滑动菜单显示的位置（左边、右边或者左右两边都有）；\n2. 设置触摸屏幕的模式（全屏触摸打开滑动菜单、边缘触摸打开滑动菜单或者触摸不能打开滑动菜单）；\n2. 设置滑动菜单滑动时缩放的效果以及关闭此效果（值越大效果越明显）；\n4. 设置滑动菜单滑动时的阴影效果以及关闭此效果（值越大效果越明显）；\n5. 设置滑动菜单滑动时渐入渐出的效果（值越大效果越明显）。</string>
 
-    <string name="title_activity_left">LeftActivity</string>
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
-
-    <string name="title_activity_right">RightActivity</string>
-    <string name="title_activity_sd">sd</string>
+    <string name="register_title">手机号码注册</string>
+    <string name="register">注    册</string>
+    <string name="ph_ex">+86</string>
+    <string name="register_test_err_msg">验证码错误</string>
+    <string name="ph_hint">请输入手机号码</string>
+    <string name="register_code_hint">请输入验证码</string>
+    <string name="register_code">获取验证码</string>
+    <string name="login_title">登    陆</string>
+    <string name="login_forget">忘记密码？</string>
+    <string name="login_to_register">我是新用户</string>
+    <string name="login_pwd_hint">请输入账号密码</string>
 </resources>
